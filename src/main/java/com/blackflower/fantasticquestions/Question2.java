@@ -168,7 +168,7 @@ public class Question2 extends javax.swing.JPanel {
                         .addComponent(leftButton, javax.swing.GroupLayout.PREFERRED_SIZE, 31, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(43, 43, 43)
                         .addComponent(allLeftButton, javax.swing.GroupLayout.PREFERRED_SIZE, 31, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addGap(782, 782, 782))
+                .addGap(143, 143, 143))
         );
     }// </editor-fold>//GEN-END:initComponents
 

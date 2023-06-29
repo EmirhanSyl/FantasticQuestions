@@ -131,6 +131,8 @@ public class Question1 extends javax.swing.JPanel {
                 jComboBox1.removeItem(warr);
             }
         }
+        
+        
     }//GEN-LAST:event_killButtonActionPerformed
 
     private void upgradeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_upgradeButtonActionPerformed

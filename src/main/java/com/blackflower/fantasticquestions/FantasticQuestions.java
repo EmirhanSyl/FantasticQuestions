@@ -13,6 +13,7 @@ public class FantasticQuestions {
         frameName.setVisible(true);
         Question1 panel = new Question1();
         Question2 panel2 = new Question2();
-        frameName.add(panel2);
+        Slider panel3 = new Slider();
+        frameName.add(panel3);
     }
 }
